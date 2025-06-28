@@ -1,20 +1,19 @@
-<img src="images/exploring_software_development_tools.png" alt="Exploring Software Development Tools" class="img-responsive-right" width="300">
+<img src="images/exploring_robotics.png" alt="Exploring Robotics" class="img-responsive-right" width="300">
 
-# Welcome to Exploring Software Development Tools
+# Welcome to Exploring Robotics
 
-A subsection of [BradPenney.io](https://bradpenney.io), this is a friendly guide through the world of command-line magic and automation awesomeness! 🧰🚀
+A subsection of [BradPenney.io](https://bradpenney.io), this site is a hands-on journey into the world of robotics 🧰🤖
 
-This site is dedicated to documenting the best practices, quirks, and superpowers of tools like `git`, `jq`, `yq`, `make`, `gh` and other must-haves for developers who want to do more with less typing (and fewer headaches).
+I'm diving into robotics as a new hobby that brings together two things I love: programming and building things with my hands. Whether it’s wiring up sensors, programming microcontrollers, or designing chassis and control systems, I’ll be sharing what I learn along the way.
 
-Whether you’re just getting started or you’ve been piping output into `/dev/null` for years, I hope you’ll find something here that’s helpful, insightful, or at least good for a smirk. 😄
+Whether you're curious about getting started or already knee-deep in servos and solder, I hope you'll find something helpful (or at least fun) here! 😄
 
-## Topics to Explore 🔍
+## Topics I'll be Exploring ⚙️
 
-- Version control with `git` and helpful branching workflows 🌳
-- Slicing and dicing JSON and YAML with `jq` and `yq` 🪓
-- Automating builds and scripts with `make` ⚙️
-- Tips, tricks, and tiny CLI power moves ⚡
-- Real-world examples and shell-fu 🧠
+- Intro to microcontrollers and electronics 🔌
+- Basic circuits and sensors 📏
+- Actuators, motors, and movement ⚙️
+- Embedded programming and firmware 💻
+- Robotics project builds and tutorials 🤖
 
-Stick around — I’ll keep adding more tools, tutorials, and tangents.
-Thanks for visiting, and happy hacking! 👋
+Stay tuned for updates as the robots come to life—thanks for stopping by! 👋
