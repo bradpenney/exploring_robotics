@@ -1,6 +1,6 @@
 # Electricity Basics
 
-<img src="/images/electrons_flowing_from_one_atom_to_another.png" alt="Robot" style="float: right; margin: 0 0 1em 1em;" width="300">
+<img src="../../images/electrons_flowing_from_one_atom_to_another.png" alt="Robot" style="float: right; margin: 0 0 1em 1em;" width="300">
 
 Before beginning to learn about robotics, its essential to know a little bit more about
 electricity other than it comes from a wall socket. So what is electricity?
