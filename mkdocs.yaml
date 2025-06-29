@@ -50,3 +50,5 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Electricity:
+      - Basics: electricity/electricity_basics.md
